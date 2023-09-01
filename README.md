@@ -14,7 +14,7 @@ The dashboard can be viewed here https://app.powerbi.com/links/0OSZufb8o9?ctid=8
 
  ![picture alt](https://github.com/T3kan0/PowerBI/blob/main/summary_board.png)
 
-### Filter on year = 2019
+#### Filter on year = 2019
  ![picture alt](https://github.com/T3kan0/PowerBI/blob/main/2019.png)
-### Analysing trends in the attendance data
+#### Analysing trends in the attendance data
  ![picture alt](https://github.com/T3kan0/PowerBI/blob/main/trend_analysis.png)
