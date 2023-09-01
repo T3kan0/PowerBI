@@ -1,4 +1,4 @@
-# MS Power BI
+# PowerBI
 Tekano Mbonani
 
 ## System Docs 📃
