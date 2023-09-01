@@ -7,7 +7,7 @@ A PowerBI interactive dashboard, showing the summary statistics of the attendanc
 ## Software Requirements 🔌
 You will need to install the following software on your system in order to run/edit the PowerBI script.
 * Mac OS/ Ubuntu 18.04 OS / Windows
-* MS PowerBI
+* PowerBI Desktop
   
 ### About the Dashbard 💾 
 The dashboard can be viewed here https://app.powerbi.com/links/0OSZufb8o9?ctid=8efc1bb9-b90f-4a48-bf6c-ba0686193b80&pbi_source=linkShare. 
