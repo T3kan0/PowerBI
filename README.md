@@ -15,4 +15,4 @@ The dashboard can be viewed here https://app.powerbi.com/links/0OSZufb8o9?ctid=8
  ![picture alt](https://github.com/T3kan0/PowerBI/blob/main/summary_board.png)
 
 
- ![picture alt](https://github.com/T3kan0/PowerBI/blob/main/summary_board.png)
+ ![picture alt](https://github.com/T3kan0/PowerBI/blob/main/2019.png)
