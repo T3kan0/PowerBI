@@ -2,19 +2,12 @@
 Tekano Mbonani
 
 ## System Docs 📃
-A **Python** code for fitting time-series data with variability, in this case the flux variability of light-curves to extract flux rising and falling times. 
-This is a public repository containing the project I developed for fitting the light-curves data points with exponential functions, in order to determine the temporal profiles of the variability. The goodness of the fit is assessed via the normalized Chi-squared of the model and data points.
+A PowerBI interactive dashboard, showing the summary statistics of the attendance data for a tutorial project between 2018 and 2023. I created this dashboard for a client that needed to keep track of the attendance, as well as the project perfomance and operations across the different years. The user can interact with the dashboard, filter the data using buttoms available on the dashboard, they could filter based on academic years, campus, semester (term), tutorial type (mode of the tutorial) and academic faculty. 
 
 ## Software Requirements 🔌
-You will need to install the following software on your system in order to run/edit the Python script.
-* Mac OS/ Ubuntu 18.04 OS
-* Python 3.7
-* Textedit/ IDE - spyder or jupyter-notebook
-* Python libraries
-  * Numpy
-  * Matplotlib
-  * Scipy
+You will need to install the following software on your system in order to run/edit the PowerBI script.
+* Mac OS/ Ubuntu 18.04 OS / Windows
+* MS PowerBI
   
-
-### About the Data 💾 
-The data used https://app.powerbi.com/links/0OSZufb8o9?ctid=8efc1bb9-b90f-4a48-bf6c-ba0686193b80&pbi_source=linkShare. The data comprise of gamma-ray (0.1-300 GeV) integral flux and photon energies from the blazar 3C 279, between February 16 and April 22, 2017. The data was analysed by myself, following standard unbinned likelihood methods, with standard ***Fermi*** science-tools.
+### About the Dashbard 💾 
+The dashboard can be viewed here https://app.powerbi.com/links/0OSZufb8o9?ctid=8efc1bb9-b90f-4a48-bf6c-ba0686193b80&pbi_source=linkShare. 
